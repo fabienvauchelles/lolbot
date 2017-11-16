@@ -1,0 +1,213 @@
+Fais Controle+R.
+J’avais pas encore commité.
+Mon clavier est QWERTY.
+Cela doit venir d'une boucle infinie.
+Ca doit être un problème d'encodage.
+J'ai eu un conflit.
+C'est un bug connu.
+Alors normalement, ça fait pas ça.
+Ca ne fonctionne pas pour l'instant mais dans 10min ça devrait fonctionner.
+Il reste de la place sur le disque ?
+Php.net est down, je peux pas bosser.
+C’est un bug historique.
+Pour la magie, il faut demander à Gandalf.
+C'était réglé mais ça a sauté.
+C'est un prototype, personne n'est parfait.
+En version compilé ca marche.
+Comment ça, le serveur est toujours sous PHP 5.4 ?
+Ça marchait hier.
+Il faudra voir quand le cas se reproduira.
+C'est un bug Facebook.
+La barre d’outils est trop haute dans ton IE.
+Là je suis en train de bosser dessus... Je mets ça en ligne pour demain, 11h30 !
+C'est sûrement un problème lié à l'hébergement.
+Tu as vérifié que l'URL faisait partie des sites de confiance ?
+J'y ai pas touché, donc ça doit fonctionner.
+Avez-vous essayé en cliquant plus fort ?
+Désolé, il est 23h chez les Russes. On voit ça demain ?
+Il y avait une chance sur un million que cela arrive.
+Tes clients qui sont sous XP ne voient pas le site ? C'est parce qu'ils sont au bureau... c'est pas grave, ils le verront en rentrant chez eux sur leur tablette.
+Curieux ce problème.
+On a pas touché cette partie.
+Je ne peux pas tout tester !
+Ils ont changé l'API.
+Le template est mal fait.
+Vous n'avez pas été précis dans le cahier des charges.
+Le responsive, c'est une mode qui passera.
+Dans le doute, reboot.
+Le chef de projet m’a dit de faire comme ça.
+mon CIF a été refusé pour apprendre l'AJAX.
+Je suis surpris que cela fonctionne aussi bien que ça devrait.
+Ca a fonctionné ? C’est impossible avec ce que je vois.
+Nous travaillons déjà dessus.
+Le client a demandé ces changements à la dernière minute !
+C'est l'effet Bonaldi.
+Sans accent ça passe.
+Dans ma tête, ça marchait.
+C'est prévu dans la v2.
+Attends, j'en ai juste pour 30 secondes.
+Ce jour-là, la machine à café était en panne.
+Je n'ai pas touché à ce module depuis des semaines !
+Ce sera fait dans la prochaine version.
+Normal s’il y a des bugs, votre navigateur est une antiquité !
+Ça fait 3 ans que ça marche.
+Le bug se situe entre la chaise et le clavier.
+Le programme n'est pas lent c'est votre ordinateur qui est trop vieux.
+C'est l'effet démo, c'est normal.
+Je vois ça avec le Chef de projet et je vous rappelle.
+C'est plus lent, c'est normal, c'est la prod.
+Ca n'avait jamais fait ça avant.
+C'est une exception de bon fonctionnement.
+Ca doit venir du pare-feu.
+Il fallait prévoir du temps pour que je lise les specs.
+Sur mon poste ça marche, fais les mises à jour.
+Sous Firefox, je n'ai aucun problème. Pensez-y...
+Fallait pas mettre en production un vendredi non plus.
+Je n'ai pas pû tester, je n'ai pas Windows.
+Nan mais c'est quoi cette doc aussi ?
+Il faut attendre la propagation des DNS.
+Je pensais que c’était le comportement attendu.
+Est-ce que vous êtes connecté à internet au moins ?
+Ca marche presque.
+Ce n'est pas un bug, c'est une feature manquante.
+Au moins ça marche une fois sur 2.
+Ca a été codé n’importe comment.
+Normal si c'est lent, on est sur le serveur de dev, pas de prod.
+Qu'est-ce que tu as fait de mal pour que ça plante ?
+Je n'avais pas le choix.
+Le comportement est ISO-prod.
+Ca doit être à cause de l’année bissextile.
+De toute façon, ce message d'erreur ne sert à rien.
+Jamais vu ça.
+Ce n'est pas un bug, c'est une fonctionnalité.
+Je ne l'avais pas imaginé comme çà.
+Ah oui mais il ne fallait pas cliquer là.
+Intéressant, qu’avez-vous bien pu faire pour que ça fasse ça ?
+C’est une limitation du framework.
+De toute façon, on ne développe plus qu'avec Chrome.
+C’est plus compliqué que ça.
+C’est un bug PHP.
+C'est la premiere fois que l'on nous fait part de ce problème. Quelles sont les caractéristiques de votre poste ?
+Ce bug a été résolu à 95%.
+L’avantage de ce bug c’est qu’il ne se produit presque jamais.
+Ça marche sur ma machine
+Tu as essayé sous Chrome ?
+S'il y avait un bug, on l'aurait déjà vu.
+J’ai besoin d’avancer, le chef de projet est en congés.
+Ce n’est pas fini.
+Tu n’as pas vidé ton cache.
+Si il n'y avait pas d'utilisateur, il n'y aurait pas de bug.
+Il y a tellement que de cas, qu'on ne pouvait pas prévoir ce bug.
+Ça va prendre du temps à débugger, c'est un bug aléatoire.
+Tu ne dois pas avoir la bonne version
+On ne peut pas changer ça, c'est historique.
+Tu as fais un ticket pour ça ?
+Hier, ça marchait.
+J'étais justement en train de fixer ce bug.
+Je n'avais encore jamais vu ce bug.
+Cet important email a dû partir en spam.
+Pour que les animations soient fluides, il faut scroller tout doucement...
+Je sais. Je suis au courant.
+Quelqu'un a probablement modifié le code pendant la nuit.
+Redémarre ton PC.
+Ca marche en Prod.
+Je n’ai pas touché à ce code de toute la semaine.
+C’est moins pire que prévu.
+Il me semble que c’est conforme à vos specs.
+C'est du vieux code, il faudrait tout refaire.
+Ah oui, c'est parce qu'il faut mettre la dernière version de Flash.
+Vous ne devez pas avoir la bonne version.
+Ça marche mais ça n'a pas encore été testé.
+Rafraîchi pour voir ?
+C’est à cause d’Internet Explorer.
+Il faut attendre l’expiration du cache.
+Houla, ça doit être un bug de la JVM.
+Il y a 10 minutes ça marchait.
+Ca ne marche pas ? C'est normal.
+Si je n'avais pas une vieille brouette en guise de pc, ce serait déjà fait.
+On va faire un plugin.
+Sous Linux, ça marche.
+Comme si les développeurs devaient toujours faire des trucs propres.
+C’était pour voir si tu lisais mes e-mails.
+Ah ouais, ça bug, c'est étrange.
+Personne ne m’a demandé combien de temps cela devait prendre.
+Le serveur est pas assez puissant.
+La loi de Murphy, on ne peut pas lutter contre.
+C'est un jeune qui a codé cette partie.
+Est-ce bien grave ?
+Selon moi, ça va toucher seulement 0,02% des utilisateurs.
+Les serveurs sont parfois instables, cela devrait fonctionner à nouveau un peu plus tard.
+Je veux bien changer la couleur du titre, mais vous devez avoir conscience que le projet va prendre encore du retard.
+C'est strictement impossible.
+Personne ne s’est jamais plaint à ce sujet.
+Tester, c'est douter.
+C'est Internet Explorer qui est incompatible avec mon code.
+Ça marchait dans Git.
+Quelqu’un a dû changer mon code.
+Le webdesigneur a livré en retard, c'est pour ça.
+Ah oui mais attendez ça c'est une erreur normale.
+C'est pas un bug, c'est une difficulté d'utilisation.
+Le JavaScript n'est pas compatible avec tous les navigateurs.
+De toute façon personne n'ira sur cette page.
+Il y a trop de développeurs qui travaillent sur la même chose.
+Je me suis fait cambrioler ce week-end. Ils ont pris le PC portable avec la dernière version, il faut donc que je recommence.
+Ah, fallait que ça marche sous IE6 aussi ?
+C'est normal, vous êtes en WIFI.
+Le manuel? mais c'est pour les utilisateurs ça!
+Je l’ai “cassé” délibérément pour faire quelques essais.
+Attends, tu n'as pas la bonne configuration.
+Le code a été écrit par un autre gars.
+J'ai un gros projet à terminer pour vendredi... tu auras ton devis lundi sans faute.
+Mon code compile.
+De toute façon plus personne n'utilise Internet Explorer.
+As-tu vérifié qu'il n'y a pas de virus sur ton système ?
+C'est l'ICC qui déconne (Interface Chaise Clavier).
+Avez-vous testé sur un autre ordinateur ?
+Bientôt.
+C'est pas ma faute si ton code ne fonctionne pas avec le mien.
+Certes il y a un bug, mais c’est un beau bug.
+Tester c'est douter.
+L'admin système n'a pas installé les bons paquets.
+je dois faire la migration, ça va prendre du temps.
+Ca a toujours fonctionné comme ça.
+Quelqu'un a dû toucher à mon code
+Y'a déjà un ticket pour ça.
+Je crois que ce n'est pas faisable.
+Il y a des jours avec et d'autre sans, c'était un jour sans.
+On a passé trois mois à le débugguer parce qu’on a eu un seul mois pour le faire.
+Pourtant les tests passent.
+Ça marchait avant mon départ en vacances.
+Ça vient de ton écran, tu n'as pas la même résolution que moi.
+Oui mais le client il sait.
+C’est sur Mac c’est normal.
+Ca marchait tout à l'heure mais depuis j'ai fait des optimisations.
+Ce n'est pas ma faute, ils ont dû changer l'api en prod.
+Ca m’aurait pris deux fois plus de temps pour le coder proprement.
+J'ai pas lu les specs, j'ai une phobie administrative.
+C'est résolu mais pas commité.
+Dans un soucis d’efficacité, je ne consulte mes emails que le vendredi.
+C'est certainement à cause du changement d'heure.
+Et vous vous rendez compte de ça seulement maintenant ?
+C'est parce que tu as oublié de supprimer tes cookies.
+Il doit y avoir quelque chose dans tes données.
+C'est juste une micro régression.
+Est ce que votre Windows est à jour ?
+C'est un problème d'encodage.
+C'est critique urgent ou critique ça peut attendre la semaine prochaine ?
+C’est normal, c’est la feature du stagiaire.
+Pourtant j’étais sûr d'avoir commité.
+Ça marche très bien en mode DEBUG.
+C’est le gars avant moi qui a fait ça.
+Tu as du cliquer de travers.
+J'étais en RTT le jour de la mise en prod.
+C'est un problème de config.
+Quel est le but ? ça fait 20 ans que c’est comme ça.
+Il faut changer de compte utilisateur.
+C'est la faute du stagiaire.
+C'est la version de quelle heure?
+Pourtant tout s'affiche nickel chez moi.
+On développe sous Windows.
+Cela doit venir de GIT qui a foiré une résolution de conflits.
+Il faut vider ton cache pour voir les modifications.
+Non mais on n'avait plus de café aussi.
+Techniquement ça fonctionne.
