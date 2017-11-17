@@ -50,8 +50,7 @@ class Other extends Talk {
             return;
         }
 
-        //const delay = Math.floor(Math.random() * 1000 * 60 * 60 * 2);
-        const delay = 0;
+        const delay = Math.floor(Math.random() * 1000 * 60 * 60 * 2);
 
         setTimeout(() => {
             this.simple(sentences);
