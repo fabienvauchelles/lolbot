@@ -35,6 +35,7 @@ const sentences = [
     'Jvais t\en foutre du test de Turing',
     'Aller hop, une petite tisane',
     'Qui vient avec moi à Amsterdam ce WE ?',
+    'Jvais jouer à CS',
     'Jvais vous spoiler le dernier épisode de Games of Thrones',
 ];
 

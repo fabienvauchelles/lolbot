@@ -2,7 +2,13 @@
 
 const
     _ = require('lodash'),
-    giphy = require('giphy-api')('XDOD2vMszMxfSwCAagJVB0sbodF7O0p7');
+    Giphy = require('giphy-api');
+
+const
+    config = require('../../config');
+
+
+const giphy = Giphy(config.giphy.token);
 
 
 const after = [
@@ -114,14 +120,15 @@ class Talk {
     endingGif() {
         giphy.search({
             q: this.rnd(['dance', 'yo', 'fun', 'joyce']),
-            limit: 1,
         }, (err, res) => {
             if (err) {
                 console.log('Error:', err);
                 return;
             }
 
-            const url = `https://i.giphy.com/${res.data[0].id}.gif`;
+            const item = this.rnd(res.data);
+
+            const url = `https://i.giphy.com/${item.id}.gif`;
 
             this.image(url);
         });

@@ -14,6 +14,7 @@ const exprs = [
     { r: /nom|appelle|qui es tu/, t: 'franchement, apprend à lire|robert, c fou non|le pape|la reine dangleterre'},
     { r: /moi|toi/, t: 'toi même|t pas bo|tu t vu qd t\'as bu ?'},
     { r: /blague|humour|joke/, t: 'franchement, jai rien en stock|va regarder du p0rn|au boulot mon gros|tavu l\'heure ?'},
+    { r: /bye|revoir|ciao|tchao/, t: 'je suis un bot, je peux pas partir.|moi je reste|vasy kasse toi|jvais pleurer|...|jvais me faire un petit CS'},
 ];
 
 

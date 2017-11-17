@@ -15,6 +15,8 @@ const talks = [
     require('./common/talk/melonmeleche'),
     require('./common/talk/excuse'),
     require('./common/talk/smalltalk'),
+
+    require('./common/talk/fallback'),
 ];
 
 

@@ -16,11 +16,11 @@ class Slack extends EventEmitter {
 
         this._rtm = new SlackClient.RtmClient(config.token, {autoReconnect: true});
         this._rtm.on(SlackClient.RTM_EVENTS.MESSAGE, (message) => {
-            if (message.bot_id) {
+            message.user = this._rtm.dataStore.getUserById(message.user);
+
+            if (message.user.is_bot) {
                 return;
             }
-
-            message.user = this._rtm.dataStore.getUserById(message.user);
 
             this._onMessage(message);
         });
